@@ -1,5 +1,5 @@
 # 记事本
-====
+
 ## 翻译记录
 
 - [Animation tip: Lerp](https://github.com/xiao-T/note/issues/2)
