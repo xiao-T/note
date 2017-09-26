@@ -4,4 +4,5 @@
 
 1. [Animation tip: Lerp](https://github.com/xiao-T/note/issues/2)
 2. [Flexbox: Don't Forget about flex-shrink](https://github.com/xiao-T/note/issues/3)
-3. [Flexbox: space-between, Flexbox's Unsung Hero（Flexbox 的幕后英雄：space-between）](https://github.com/xiao-T/note/issues/4)
+3. [Flexbox: space-between, Flexbox's Unsung Hero](https://github.com/xiao-T/note/issues/4)
+4. [Stateless functional components](https://github.com/xiao-T/note/issues/5)
