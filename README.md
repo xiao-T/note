@@ -6,4 +6,4 @@
 2. [Flexbox: Don't Forget about flex-shrink](https://github.com/xiao-T/note/issues/3)
 3. [Flexbox: space-between, Flexbox's Unsung Hero](https://github.com/xiao-T/note/issues/4)
 4. [Stateless functional components](https://github.com/xiao-T/note/issues/5)     
-5.[如何设置 CSS 背景图中的 SVG 的颜色](https://github.com/xiao-T/note/issues/6)
+5. [如何设置 CSS 背景图中的 SVG 的颜色](https://github.com/xiao-T/note/issues/6)
