@@ -8,3 +8,4 @@
 4. [Stateless functional components](https://github.com/xiao-T/note/issues/5)     
 5. [如何设置 CSS 背景图中的 SVG 的颜色](https://github.com/xiao-T/note/issues/6)     
 6. [React 进阶：Container 组件](https://github.com/xiao-T/note/issues/7)
+7. [纯 CSS 播放／暂停 ICON](https://github.com/xiao-T/note/issues/8)
