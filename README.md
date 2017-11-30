@@ -12,4 +12,4 @@
 8. [是时候使用 CSS 自定义属性了](https://github.com/xiao-T/note/issues/9)
 9. [CSS Box Shadow 对比 Drop Shadow](https://github.com/xiao-T/note/issues/10)
 10. [打破边界布局 CSS Grid 讲解](https://github.com/xiao-T/note/issues/11)
-11. [利用 CSS Grid 打破布局的边界](/Published/Breaking Out With CSS Grid Layout.md)
+11. [利用 CSS Grid 打破布局的边界](https://github.com/xiao-T/note/blob/master/Published/Breaking%20Out%20With%20CSS%20Grid%20Layout.md)
