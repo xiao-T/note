@@ -23,13 +23,13 @@
 
 ### 目录
 
-- [ESLint](#ESLint)
-- [ESLint + Babel](#ESLint-+-Babel)
-- [ESLint Rules](#ESLint-Rules)
-- [ESLint Rules for React](#ESLint-Rules-for-React)
-- [Extend ESLint Rules](#Extend-ESLint-Rules)
-- [Disable ESLint Rules](#Disable-ESLint-Rules)
-- [Code Style Alternatives](#Code-Style-Alternatives)
+- [ESLint](#eslint)
+- [ESLint + Babel](#eslint--babel)
+- [ESLint Rules](#eslint-rules)
+- [ESLint Rules for React](#eslint-rules-for-react)
+- [Extend ESLint Rules](#extend-eslint-rules)
+- [Disable ESLint Rules](#disable-eslint-rules)
+- [Code Style Alternatives](#code-style-alternatives)
 
 
 ### ESLint
