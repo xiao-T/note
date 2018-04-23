@@ -159,7 +159,7 @@ Now go back to the all people list and see if your new requests are appearing th
 
 To query by mongo IDs we can’t just use the string representation of the ID but we need to convert it to an ObjectID object first. So we will import ```ObjectID``` in our ```index.js``` file first:
 
-在 MongoDB 中通过 ID 查询，我不能直接使用 ID 的字符串字面量，我们首先需要把 ID 转化成一个 ObjectID 对象。因此，我们将会在我们 ```index.js``` 文件中引入 ```ObjectID```：
+在 MongoDB 中通过 ID 查询，我不能直接使用 ID 的字符串字面量，我们首先需要把 ID 转化成一个 ObjectID 对象。因此，我们将会在我们 ```index.js``` 文件中引入 ```ObjectID```：
 
 ```js
 const ObjectID = require("mongodb").ObjectID;
