@@ -1,6 +1,6 @@
 ## Understanding JWT (JSON Web Tokens)
 
-## 了解 JWT
+## 什么是 JWT
 
 > 原文地址: <http://polyglot.ninja/understanding-jwt-json-web-tokens/>
 **本文版权归原作者所有，翻译仅用于学习。**
