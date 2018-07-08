@@ -18,4 +18,5 @@
 14. [用 KoaJS 和 MongoDB 实现 REST API - 2](https://github.com/xiao-T/note/blob/master/Published/REST%20API%20with%20KoaJS%20and%20MongoDB%20(Part%20%E2%80%93%202).md)
 15. [用 KoaJS 和 MongoDB 实现 REST API - 3](https://github.com/xiao-T/note/blob/master/Published/REST%20API%20with%20KoaJS%20and%20MongoDB%20(Part%20%E2%80%93%203).md)
 16. [什么是 JWT](https://github.com/xiao-T/note/blob/master/Published/Understanding%20JWT%20(JSON%20Web%20Tokens)%20.md)    
-17. [切角盒子](https://github.com/xiao-T/note/blob/master/Published/Notched%20Boxes.md)
+17. [切角盒子](https://github.com/xiao-T/note/blob/master/Published/Notched%20Boxes.md)      
+18. [如何用 SVG 做占位符和其他的图片加载技术](https://github.com/xiao-T/note/blob/master/Published/How%20to%20use%20SVG%20as%20a%20Placeholder%2C%20and%20Other%20Image%20Loading%20Techniques.md)
