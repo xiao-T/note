@@ -20,3 +20,8 @@
 16. [什么是 JWT](https://github.com/xiao-T/note/blob/master/Published/Understanding%20JWT%20(JSON%20Web%20Tokens)%20.md)    
 17. [切角盒子](https://github.com/xiao-T/note/blob/master/Published/Notched%20Boxes.md)      
 18. [如何用 SVG 做占位符和其他的图片加载技术](https://github.com/xiao-T/note/blob/master/Published/How%20to%20use%20SVG%20as%20a%20Placeholder%2C%20and%20Other%20Image%20Loading%20Techniques.md)
+
+
+## 个人总结
+
+1.[两端对齐几种实现方案](https://github.com/xiao-T/note/blob/master/Published/%E4%B8%A4%E7%AB%AF%E5%AF%B9%E9%BD%90%E5%87%A0%E7%A7%8D%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88.md)
