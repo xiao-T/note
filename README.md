@@ -20,6 +20,7 @@
 16. [什么是 JWT](https://github.com/xiao-T/note/blob/master/Published/Understanding%20JWT%20(JSON%20Web%20Tokens)%20.md)    
 17. [切角盒子](https://github.com/xiao-T/note/blob/master/Published/Notched%20Boxes.md)      
 18. [如何用 SVG 做占位符和其他的图片加载技术](https://github.com/xiao-T/note/blob/master/Published/How%20to%20use%20SVG%20as%20a%20Placeholder%2C%20and%20Other%20Image%20Loading%20Techniques.md)
+19. [Service Workers 和客户端如何通信](https://github.com/xiao-T/note/blob/master/Published/How%20to%20Send%20Messages%20Between%20Service%20Workers%20and%20Clients.md)
 
 
 ## 个人总结
