@@ -46,7 +46,7 @@ This blog post will cover the following topics:
 
 We did not provide many examples, because as a general rule, **derived state should be used sparingly**. All problems with derived state that we have seen can be ultimately reduced to either (1) unconditionally updating state from props or (2) updating state whenever props and state don’t match. (We’ll go over both in more detail below.)
 
-我们不再提供更多的示例，这是因为，通常情况下**派生状态需要谨慎使用**。派生状态引起的所有问题最终可以总结为（1）无条件通过属性更新状态，（2）状态和属性不匹配也更新状态。（下面会有两种情况的详细内容）。
+我们不再提供更多的示例，这是因为，通常情况下**派生状态需要谨慎使用**。派生状态引起的所有问题最终可以总结为（1）无条件通过属性更新状态，（2）状态和属性不匹配也更新状态。（下面会有两种情况的详细内容）。
 
 - If you’re using derived state to memoize some computation based only on the current props, you don’t need derived state. See [What about memoization?](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#what-about-memoization) below.
 - If you’re updating derived state unconditionally or updating it whenever props and state don’t match, your component likely resets its state too frequently. Read on for more details.
