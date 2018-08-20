@@ -8,11 +8,11 @@
 
 How we approach layout on the web is changing, and at the forefront of that change is [CSS Grid Layout](https://www.w3.org/TR/css-grid-1/). This updated quick start guide will skip the details and nuances, instead helping you get stuck in, right now.
 
-我们如何应对 web 在布局上正在发生的变化呢，最前沿的变化是 [CSS Grid](https://www.w3.org/TR/css-grid-1/)。这篇快速入门指南将会跳过细节，让你避免陷入困境，让我们开始。
+我们如何处理 web 布局正在发生的变化，最前沿的变化是 [CSS Grid](https://www.w3.org/TR/css-grid-1/)。这篇快速入门指南将会跳过细节，让你避免陷入困境，让我们开始。
 
 ### Your Browser
 
-### 你们的浏览器
+### 浏览器
 
 CSS Grid Layout (known to its friends as “Grid”) has come on leaps and bounds in the last year, and as such you’ll find [browser support](http://caniuse.com/#feat=css-grid) for it pretty solid nowadays. 
 
@@ -34,7 +34,7 @@ Grid 允许我们根据网格线在页面上布置元素。
 
 At their simplest these guides, or *grid lines*, frame horizontal and vertical *grid tracks*. Grid tracks serve as *rows* and *columns*, with *gutters* running between them. Where horizontal and vertical grid tracks intersect, we’re left with *cells*, much like we use with tables. These are all important terms to understand.
 
-最简单就是网格，也称为*网格线*，水平和垂直的*网格轨道*框架。网格轨道被它们之间的*间歇*分成了*行*和*列*。在网格轨道水平和垂直方向交叉的地方我们得到了*单元格*，这有点像 table。这些都是很重要的术语。
+最简单就是网格，也称为*网格线*，水平和垂直的*网格轨道*框架。网格轨道被它们之间的*间隙*分成了*行*和*列*。在网格轨道水平和垂直方向交叉的地方我们得到了*单元格*，这有点像 table。这些都是很重要的术语。
 
 In the image below you’ll see a demo grid, showing: 
 
@@ -61,7 +61,7 @@ For a graphic layout, it might look more familiar if we use exactly the same gri
 
 1.gutters  
 
-1.间歇
+1.间隙
 
 ![](https://cms-assets.tutsplus.com/uploads/users/30/posts/27238/image/grid-terms-gutters-2.svg)
 The same grid, but this time bearing a striking resemblance to the Finnish flag   
@@ -77,7 +77,7 @@ There’s one last term we need to clarify before moving on:
 
 ![](https://cms-assets.tutsplus.com/uploads/users/30/posts/27238/image/grid-terms-area-1.svg)
 One of the many possible grid areas on our demo grid   
-众多网格布局的演示之一
+演示中众多网格区域的一部分
 
 A *grid area* is any part of our grid fenced in by four grid lines; it can comprise any number of grid cells.
 
