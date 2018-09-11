@@ -8,7 +8,7 @@
 
 In one of our earlier introduction tutorials to CSS Grid we looked at [fluid columns and better gutters](https://webdesign.tutsplus.com/tutorials/css-grid-layout-units-of-measurement-and-basic-keywords--cms-27259). We learned that it isn’t necessary to specify exactly where we want to position our grid items; if we declare our grid’s properties, Grid will slot our items in according to its auto-placement algorithm.
 
-在早期的教程中我们讨论过[fluid columns 和 better gutters](https://webdesign.tutsplus.com/tutorials/css-grid-layout-units-of-measurement-and-basic-keywords--cms-27259)。我们知道在定位排列元素的时候并不需要严格按照文档顺序逻辑排列；如果，我们声明了 Grid 的属性，它的元素安会根据自己的算法自动排列。
+在早期的教程中我们讨论过[fluid columns 和 better gutters](https://webdesign.tutsplus.com/tutorials/css-grid-layout-units-of-measurement-and-basic-keywords--cms-27259)。我们知道在定位排列元素的时候并不需要严格按照文档顺序逻辑排列；如果，我们声明了 Grid 的属性，它的元素安会根据自己的算法自动排列。
 
 In this tutorial we’ll take a look at how that algorithm goes about its work and how we can influence it.
 
@@ -140,9 +140,9 @@ Let’s recap:
 
 让我们概括一下
 
-1. 如果，我们特别的声明某个元素，Grid 元素会自动的排列在下一个可用空间（足够大）。
-1. 如果当前行没有足够空间，它会检索下一行，并且会把留白排除在外。
-1. 我们可以通过设置 ```grid-auto-flow``` ```row``` 和 ```column``` 来切换不同的检索顺序。
+1. 如果，我们特别的声明某个元素，Grid 元素会自动的排列在下一个可用空间（足够大）。
+1. 如果当前行没有足够空间，它会检索下一行，并且会把留白排除在外。
+1. 我们可以通过设置 ```grid-auto-flow``` ```row``` 和 ```column``` 来切换不同的检索顺序。
 1. ```grid-auto-flow``` 可以通过关键字来设置”包裹“的行为。默认值是 ```sparse```，但是，我们可以把值设置成 ```dense``` 这样元素就会尝试填充所有的有效空间。
 
 #### Useful Resources
@@ -154,3 +154,4 @@ Let’s recap:
 
 - MDN 上的 [grid-auto-flow](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow)
 - [grid-auto-flow property](https://www.w3.org/TR/css-grid/#grid-auto-flow-property) 规范
+　
