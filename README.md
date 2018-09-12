@@ -19,7 +19,8 @@
 12. [CSS 网格布局(3)：使用网格区间](https://github.com/xiao-T/note/blob/master/Published/CSS%20Grid%20Layout-%20Using%20Grid%20Areas.md)
 13. [CSS 网格布局(4)：使用 auto-fill 和 minmax() 实现响应布局](https://github.com/xiao-T/note/blob/master/Published/CSS%20Grid%20Layout-%20Going%20Responsive%20With%20auto-fill%20and%20minmax().md)
 14. [CSS 网格布局(5)：理解 CSS Grid 的 “自动排列算法”](https://github.com/xiao-T/note/blob/master/Published/Understanding%20the%20CSS%20Grid%20%E2%80%9CAuto-Placement%20Algorithm%E2%80%9D%20.md)
-15. [用 CSS 自定义属性实现强大的 Grid 组件](https://github.com/xiao-T/note/blob/master/Published/Super-Powered%20Grid%20Components%20with%20CSS%20Custom%20Properties.md)
+15. [CSS 网格布局(6)：小建议 - 为网格线命名，以防万一](https://github.com/xiao-T/note/blob/master/Published/Quick%20Tip-%20Name%20Your%20CSS%20Grid%20Lines%2C%20Just%20in%20Case.md)
+16. [用 CSS 自定义属性实现强大的 Grid 组件](https://github.com/xiao-T/note/blob/master/Published/Super-Powered%20Grid%20Components%20with%20CSS%20Custom%20Properties.md)
 
 ### React
 
