@@ -21,7 +21,7 @@
 14. [CSS 网格布局(5)：理解 CSS Grid 的 “自动排列算法”](https://github.com/xiao-T/note/blob/master/Published/Understanding%20the%20CSS%20Grid%20%E2%80%9CAuto-Placement%20Algorithm%E2%80%9D%20.md)
 15. [CSS 网格布局(6)：小建议 - 为网格线命名，以防万一](https://github.com/xiao-T/note/blob/master/Published/Quick%20Tip-%20Name%20Your%20CSS%20Grid%20Lines%2C%20Just%20in%20Case.md)
 16. [用 CSS 自定义属性实现强大的 Grid 组件](https://github.com/xiao-T/note/blob/master/Published/Super-Powered%20Grid%20Components%20with%20CSS%20Custom%20Properties.md)
-
+17. [CSS 技巧：色彩斑斓的自定义阴影](https://github.com/xiao-T/note/blob/master/Published/CSS%20Tip-%20Multicolor%20%26%20Cutout%20Drop%20Shadows.md)
 ### React
 
 1. [Stateless functional components](https://github.com/xiao-T/note/issues/5)     
