@@ -22,6 +22,7 @@
 15. [CSS 网格布局(6)：小建议 - 为网格线命名，以防万一](https://github.com/xiao-T/note/blob/master/Published/Quick%20Tip-%20Name%20Your%20CSS%20Grid%20Lines%2C%20Just%20in%20Case.md)
 16. [用 CSS 自定义属性实现强大的 Grid 组件](https://github.com/xiao-T/note/blob/master/Published/Super-Powered%20Grid%20Components%20with%20CSS%20Custom%20Properties.md)
 17. [CSS 技巧：色彩斑斓的自定义阴影](https://github.com/xiao-T/note/blob/master/Published/CSS%20Tip-%20Multicolor%20%26%20Cutout%20Drop%20Shadows.md)
+
 ### React
 
 1. [Stateless functional components](https://github.com/xiao-T/note/issues/5)     
@@ -29,6 +30,7 @@
 3. [ESLint + Babel + Webpack 环境下的 React 代码风格](https://github.com/xiao-T/note/blob/master/Published/React%20Code%20Style%20with%20ESLint%20%2B%20Babel%20%2B%20Webpack.md)
 4. [你或许不需要派生状态](https://github.com/xiao-T/note/blob/master/Published/You%20Probably%20Don't%20Need%20Derived%20State.md)
 5. [用 React 构建可复用的设计系统](https://github.com/xiao-T/note/blob/master/Published/Build%20a%20Reusable%20Design%20System%20With%20React.md)
+6. [用 Jest 测试 React 组件（1）](https://github.com/xiao-T/note/blob/master/Published/Testing%20Components%20in%20React%20Using%20Jest-%20The%20Basics.md)
 
 ### Node
 1. [用 KoaJS 和 MongoDB 实现 REST API - 1](https://github.com/xiao-T/note/blob/master/Published/REST%20API%20with%20KoaJS%20and%20MongoDB%20(Part%20%E2%80%93%201).md)
