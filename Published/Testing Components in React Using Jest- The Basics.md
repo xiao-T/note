@@ -1,5 +1,5 @@
 ## Testing Components in React Using Jest: The Basics
-## 用 Jest 测试 React 组件（1）
+## 测试 React 组件（1）
 
 > 原文地址: <https://code.tutsplus.com/articles/testing-components-in-react-using-jest-the-basics--cms-28934/>       
 **本文版权归原作者所有，翻译仅用于学习。**
