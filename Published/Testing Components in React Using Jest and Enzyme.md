@@ -375,7 +375,7 @@ Next up, we're going to test the ```ProductContainer``` component. It has a stat
 1. The component's state is populated after the component mounts.
 1. The ```handleProductClick()``` method should update the state when a product id is passed in as an argument.
 
-接下来，我们测试 ```ProductContainer``` 组件。它有一个 state、一个生命周期方法和一个自定义方法。以下就是我们需要断言验证的：
+接下来，我们测试 ```ProductContainer``` 组件。它有一个 state、一个生命周期方法和一个自定义方法。以下就是我们需要断言验证的：
 
 1. ```componentDidMount``` 只能被调用一次
 1. 组件挂载后 state 应该被渲染。
@@ -383,7 +383,7 @@ Next up, we're going to test the ```ProductContainer``` component. It has a stat
 
 To check whether ```componentDidMount``` was called, we're going to spy on it. Unlike a stub, a spy is used when you need to test an existing function. Once the spy is set, you can write assertions to confirm whether the function was called.
 
-为了检测 ```componentDidMount``` 方法是否被调用，我们需要监控它。不像 stub，spy 是用来测试内置方法的。一旦 spy 设置好后，你可以断言确认方法是否被调用。
+为了检测 ```componentDidMount``` 方法是否被调用，我们需要监控它。不像 stub，spy 是用来测试内置方法的。一旦 spy 设置好后，你可以断言确认方法是否被调用。
 
 You can spy on a function as follows:
 

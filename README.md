@@ -31,6 +31,7 @@
 4. [你或许不需要派生状态](https://github.com/xiao-T/note/blob/master/Published/You%20Probably%20Don't%20Need%20Derived%20State.md)
 5. [用 React 构建可复用的设计系统](https://github.com/xiao-T/note/blob/master/Published/Build%20a%20Reusable%20Design%20System%20With%20React.md)
 6. [测试 React 组件（1）](https://github.com/xiao-T/note/blob/master/Published/Testing%20Components%20in%20React%20Using%20Jest-%20The%20Basics.md)
+7. [测试 React 组件（2）](https://github.com/xiao-T/note/blob/master/Published/Testing%20Components%20in%20React%20Using%20Jest%20and%20Enzyme.md)
 
 ### Node
 1. [用 KoaJS 和 MongoDB 实现 REST API - 1](https://github.com/xiao-T/note/blob/master/Published/REST%20API%20with%20KoaJS%20and%20MongoDB%20(Part%20%E2%80%93%201).md)
