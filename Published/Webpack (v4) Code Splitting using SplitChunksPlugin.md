@@ -43,7 +43,7 @@ Since, `js-plugin-starter` was meant for with different purpose and you can ***[
 
 因为，`js-plugin-starter` 有不同的目的，你可以阅读 ***[这篇文章](https://itnext.io/how-to-write-a-frontend-javascript-plugin-using-es6-sass-webpack-a1c6d6fdeb71)*** , `webpack.config.js` 的内容有点多。所以，我建议你删除一些东西，以便重新开始。只需用下面的代码替换掉对象中的 `output`。
 
-```js
+```jsx
 output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'main.js',
@@ -428,7 +428,7 @@ You can read documentation of **[SplitChunksPlugin](https://webpack.js.org/plugi
 
 `chacheGroups` 是一个简单的对象，`key` 定义着文件块的名字，`value` 就是一些相关的配置。默认情况下，Webpack 会为 `vendors` 和 `default` 提供 cacheGroups，但是，我们需要把它们的值设置为 `false`，这是避免对你理解代码分割造成困惑。
 
-```json
+```jsx
 // optimization
 optimization: {
     splitChunks: {
@@ -444,7 +444,7 @@ Let’s create a `vendor` chunk which contain all code from `node_modules` impor
 
 让我们创建一个  `vendor` 块，它包含项目中所有来自 `node_modules` 的代码。不管什么时候，只要 Webpack 遇到 `import`  从 `npm` 导入文件，就会把这些代码插入到 `vendor` 块。
 
-```json
+```jsx
 // optimization
 optimization: {
     splitChunks: {
@@ -485,7 +485,7 @@ By default, `SplitChunksPlugin` prepends key of the chunk to the name of build f
 
 默认情况下，`SplitChunksPlugin` 根据配置中 name 的值来构建文件的名称。我们也可以不使用 `name`，自己指定一个特定的值。
 
-```json
+```jsx
 // vendor chunk
 vendor: {
     // name of the chunk
@@ -499,7 +499,7 @@ If you are still not satisfied with the filename of the chunk, then we need to c
 
 如果，你还是对块文件名称不满意，那我们就需要改变 `webpack.config.js` 配置中的  [```output.chunkFilename```](https://webpack.js.org/configuration/output/#output-chunkfilename) 的值。`[name]` 将会替换掉 `chacheGroup` 配置中 `name` 的值。
 
-```json
+```jsx
 output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'main.js',
