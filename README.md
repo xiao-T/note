@@ -35,6 +35,7 @@
 8. [Webpack (v4) 中用 SplitChunksPlugin 分割代码](https://github.com/xiao-T/note/blob/master/Published/Webpack%20(v4)%20Code%20Splitting%20using%20SplitChunksPlugin.md)
 9. [在 React 16.6 中懒加载（或者预加载）组件](https://github.com/xiao-T/note/blob/master/Published/Lazy%20loading%20(and%20preloading)%20components%20in%20React%2016.6.md)
 10. [在 React 如何用 TypeScrpt 处理 Refs](https://github.com/xiao-T/note/blob/master/Published/React%20Refs%20with%20TypeScript.md)
+11. [TypeScript 中使用 React HOC](https://github.com/xiao-T/note/blob/master/Published/React%20Higher-Order%20Components%20in%20TypeScript.md)
 
 ### Node
 1. [用 KoaJS 和 MongoDB 实现 REST API - 1](https://github.com/xiao-T/note/blob/master/Published/REST%20API%20with%20KoaJS%20and%20MongoDB%20(Part%20%E2%80%93%201).md)
