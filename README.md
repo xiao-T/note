@@ -37,7 +37,7 @@
 10. [在 React 如何用 TypeScrpt 处理 Refs](https://github.com/xiao-T/note/blob/master/Published/React%20Refs%20with%20TypeScript.md)
 11. [TypeScript 中使用 React HOC](https://github.com/xiao-T/note/blob/master/Published/React%20Higher-Order%20Components%20in%20TypeScript.md)
 12. [TypeScript 中使用 React Hooks](https://github.com/xiao-T/note/blob/master/Published/React%20Hooks%20in%20TypeScript.md)
-13. [TypeScript 中使用 React Props](https://github.com/xiao-T/note/blob/master/Published/React Render Props in TypeScript.md)
+13. [TypeScript 中使用 React Props](https://github.com/xiao-T/note/blob/master/Published/React%20Render%20Props%20in%20TypeScript.md)
 
 ### Node
 1. [用 KoaJS 和 MongoDB 实现 REST API - 1](https://github.com/xiao-T/note/blob/master/Published/REST%20API%20with%20KoaJS%20and%20MongoDB%20(Part%20%E2%80%93%201).md)
