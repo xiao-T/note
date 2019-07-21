@@ -1,5 +1,5 @@
 ## React Render Props in TypeScript
-## TypeScript 中使用 React Props
+## TypeScript 中使用 Render Props
 
 > 原文地址: <https://medium.com/@jrwebdev/react-render-props-in-typescript-b561b00bc67c/>   
 **本文版权归原作者所有，翻译仅用于学习。**
