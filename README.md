@@ -23,6 +23,10 @@
 16. [用 CSS 自定义属性实现强大的 Grid 组件](https://github.com/xiao-T/note/blob/master/Published/Super-Powered%20Grid%20Components%20with%20CSS%20Custom%20Properties.md)
 17. [CSS 技巧：色彩斑斓的自定义阴影](https://github.com/xiao-T/note/blob/master/Published/CSS%20Tip-%20Multicolor%20%26%20Cutout%20Drop%20Shadows.md)
 
+### JS
+
+1. [3 件你不知道的 JS 中有关 forEach 的事情](https://github.com/xiao-T/note/blob/master/Published/3%20things%20you%20didn%E2%80%99t%20know%20about%20the%20forEach%20loop%20in%20JS.md)
+
 ### React
 
 1. [Stateless functional components](https://github.com/xiao-T/note/issues/5)     
