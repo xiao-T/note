@@ -26,6 +26,7 @@
 ### JS
 
 1. [3 件你不知道的 JS 中有关 forEach 的事情](https://github.com/xiao-T/note/blob/master/Published/3%20things%20you%20didn%E2%80%99t%20know%20about%20the%20forEach%20loop%20in%20JS.md)
+2. [箭头函数](https://github.com/xiao-T/note/blob/master/Published/Understanding-Arrow-Functions.md)
 
 ### React
 
