@@ -42,6 +42,7 @@
 11. [TypeScript 中使用 React HOC](https://github.com/xiao-T/note/blob/master/Published/React%20Higher-Order%20Components%20in%20TypeScript.md)
 12. [TypeScript 中使用 React Hooks](https://github.com/xiao-T/note/blob/master/Published/React%20Hooks%20in%20TypeScript.md)
 13. [TypeScript 中使用 React Props](https://github.com/xiao-T/note/blob/master/Published/React%20Render%20Props%20in%20TypeScript.md)
+13. [React 中的条件渲染](https://github.com/xiao-T/note/blob/master/Published/Understanding-Conditional-Rendering-in-React.md)
 
 ### Webpack
 
