@@ -45,6 +45,7 @@
 13. [React 中的条件渲染](https://github.com/xiao-T/note/blob/master/Published/Understanding-Conditional-Rendering-in-React.md)
 14. [React Hooks for State Management!(useContext, useEffect, useReducer).md](https://github.com/xiao-T/note/blob/master/Published/React%20Hooks%20for%20State%20Management!useContext%2C%20useEffect%2C%20useReducer.md)
 15. [使用 React Hooks 管理全局 State](https://github.com/xiao-T/note/blob/master/Published/Global%20state%20management%20with%20React%20Hooks.md)
+16. [2020 年 React 状态管理]([https://github.com/xiao-T/note/blob/master/Published/React%20State%20Management%20in%202020.md](https://github.com/xiao-T/note/blob/master/Published/React State Management in 2020.md))
 
 ### Webpack
 
