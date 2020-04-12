@@ -47,6 +47,7 @@
 15. [使用 React Hooks 管理全局 State](https://github.com/xiao-T/note/blob/master/Published/Global%20state%20management%20with%20React%20Hooks.md)
 16. [2020 年 React 状态管理](https://github.com/xiao-T/note/blob/master/Published/React%20State%20Management%20in%202020.md)
 17. [React hooks：并不神奇，就是数组](https://github.com/xiao-T/note/blob/master/Published/React-hooks-not-magic-just-arrays.md)
+18. [用 Enzyme 测试使用 Hooks 的 React 函数组件](https://github.com/xiao-T/note/blob/master/Published/Testing-React-Function-Components-with-Hooks-using-Enzyme.md)
 
 ### Webpack
 
