@@ -49,6 +49,7 @@
 17. [React hooks：并不神奇，就是数组](https://github.com/xiao-T/note/blob/master/Published/React-hooks-not-magic-just-arrays.md)
 18. [用 Enzyme 测试使用 Hooks 的 React 函数组件](https://github.com/xiao-T/note/blob/master/Published/Testing-React-Function-Components-with-Hooks-using-Enzyme.md)
 19. [深入理解：React Hooks 是如何工作的？](https://github.com/xiao-T/note/blob/master/Published/Deep-dive-How-do-React-hooks-really-work.md)
+20. [用 Jest 和 Enzyme 测试 React I](https://github.com/xiao-T/note/blob/master/Published/Testing-React-with-Jest-and-Enzyme-I.md)
 
 ### Webpack
 
