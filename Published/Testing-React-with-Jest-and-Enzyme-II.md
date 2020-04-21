@@ -1,6 +1,6 @@
 # Testing React with Jest and Enzyme II
 
-## 用 Jest 和 Enzyme 测试 II
+## 用 Jest 和 Enzyme 测试 React II
 
 > 原文地址: <https://codeburst.io/testing-react-events-with-jest-and-enzyme-ii-46fbe4b8b589/>   
 **本文版权归原作者所有，翻译仅用于学习。**
