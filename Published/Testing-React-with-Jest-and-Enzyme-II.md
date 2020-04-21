@@ -105,7 +105,9 @@ This is a simple fix, as it is possible to specify the index of the node you wis
 这也很容易修复，你可以给需要交互的 node 指定索引：
 
 ```js
-// the initialcomponent.find([className="checkbox__input"]).simulate(event);// becomescomponent.find([className="checkbox__input"]).at(1).simulate(event);
+// the initial
+component.find([className="checkbox__input"]).simulate(event);// becomes
+component.find([className="checkbox__input"]).at(1).simulate(event);
 ```
 
 ### Events
