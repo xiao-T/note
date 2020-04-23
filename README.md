@@ -51,6 +51,7 @@
 19. [深入理解：React Hooks 是如何工作的？](https://github.com/xiao-T/note/blob/master/Published/Deep-dive-How-do-React-hooks-really-work.md)
 20. [用 Jest 和 Enzyme 测试 React I](https://github.com/xiao-T/note/blob/master/Published/Testing-React-with-Jest-and-Enzyme-I.md)
 21. [用 Jest 和 Enzyme 测试 React II](https://github.com/xiao-T/note/blob/master/Published/Testing-React-with-Jest-and-Enzyme-II.md)
+22. [Hooks, State, 闭包和 useReducer](https://github.com/xiao-T/note/blob/master/Published/Hooks-State-Closures-and-useReducer.md)
 
 ### Webpack
 
