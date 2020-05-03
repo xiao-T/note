@@ -53,6 +53,7 @@
 20. [用 Jest 和 Enzyme 测试 React I](https://github.com/xiao-T/note/blob/master/Published/Testing-React-with-Jest-and-Enzyme-I.md)
 21. [用 Jest 和 Enzyme 测试 React II](https://github.com/xiao-T/note/blob/master/Published/Testing-React-with-Jest-and-Enzyme-II.md)
 22. [Hooks, State, 闭包和 useReducer](https://github.com/xiao-T/note/blob/master/Published/Hooks-State-Closures-and-useReducer.md)
+23. [React 中渐进式加载图片](https://github.com/xiao-T/note/blob/master/Published/Progressively-Loading-Images-In-React.md)
 
 ### Webpack
 

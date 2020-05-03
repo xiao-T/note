@@ -2,7 +2,9 @@
 
 # React 中渐进式加载图片
 
-> 原文地址: <https://medium.com/frontend-digest/progressively-loading-images-in-react-107cb075417a/>   **本文版权归原作者所有，翻译仅用于学习。**
+> 原文地址: <https://medium.com/frontend-digest/progressively-loading-images-in-react-107cb075417a/>  
+>
+>  **本文版权归原作者所有，翻译仅用于学习。**
 
 Have you ever wondered how Medium loads images? Maybe you noticed how images seem to render in multiple steps. A blurry version of the image appears on screen and then is replaced by the full-sized version.
 
