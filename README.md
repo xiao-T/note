@@ -29,6 +29,9 @@
 2. [箭头函数](https://github.com/xiao-T/note/blob/master/Published/Understanding-Arrow-Functions.md)
 3. [ES2020 中 Javascript 10 个你应该知道的新功能](https://github.com/xiao-T/note/blob/master/Published/10-New-JavaScript-Features-in-ES2020-That-You-Should-Know.md)
 
+### TypeScript
+1. [TypeScript 中的代码清道夫：非空断言操作符](https://github.com/xiao-T/note/blob/master/Published/typescript/cleaner-typescript-with-the-non-null-assertion-operator.md)
+
 ### React
 
 1. [Stateless functional components](https://github.com/xiao-T/note/issues/5)     
