@@ -31,6 +31,7 @@
 
 ### TypeScript
 1. [TypeScript 中的代码清道夫：非空断言操作符](https://github.com/xiao-T/note/blob/master/Published/typescript/cleaner-typescript-with-the-non-null-assertion-operator.md)
+2. [通过示例演示 TypeScript 的高级类型](https://github.com/xiao-T/note/blob/master/Published/typescript/Advanced-TypeScript-Types-with-Examples.md)
 
 ### React
 
