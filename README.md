@@ -58,6 +58,7 @@
 21. [用 Jest 和 Enzyme 测试 React II](https://github.com/xiao-T/note/blob/master/Published/Testing-React-with-Jest-and-Enzyme-II.md)
 22. [Hooks, State, 闭包和 useReducer](https://github.com/xiao-T/note/blob/master/Published/Hooks-State-Closures-and-useReducer.md)
 23. [React 中渐进式加载图片](https://github.com/xiao-T/note/blob/master/Published/Progressively-Loading-Images-In-React.md)
+24. [React 组件的"黄金法则"](https://github.com/xiao-T/note/blob/master/Published/react/How-the-%E2%80%9CGolden-Rule%E2%80%9D-of-React-components-can-help-you-write-better-code.md)
 
 ### Webpack
 
