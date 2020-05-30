@@ -28,6 +28,7 @@
 1. [3 件你不知道的 JS 中有关 forEach 的事情](https://github.com/xiao-T/note/blob/master/Published/3%20things%20you%20didn%E2%80%99t%20know%20about%20the%20forEach%20loop%20in%20JS.md)
 2. [箭头函数](https://github.com/xiao-T/note/blob/master/Published/Understanding-Arrow-Functions.md)
 3. [ES2020 中 Javascript 10 个你应该知道的新功能](https://github.com/xiao-T/note/blob/master/Published/10-New-JavaScript-Features-in-ES2020-That-You-Should-Know.md)
+4. [我从来都不理解闭包](https://github.com/xiao-T/note/blob/master/Published/javascript/I-never-understood-JavaScript-closures.md)
 
 ### TypeScript
 1. [TypeScript 中的代码清道夫：非空断言操作符](https://github.com/xiao-T/note/blob/master/Published/typescript/cleaner-typescript-with-the-non-null-assertion-operator.md)
