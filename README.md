@@ -64,7 +64,7 @@
 23. [React 中渐进式加载图片](https://github.com/xiao-T/note/blob/master/Published/Progressively-Loading-Images-In-React.md)
 24. [React 组件的"黄金法则"](https://github.com/xiao-T/note/blob/master/Published/react/How-the-%E2%80%9CGolden-Rule%E2%80%9D-of-React-components-can-help-you-write-better-code.md)
 25. [为 REST API 创建可复用的 React Query 组件](https://github.com/xiao-T/note/blob/master/Published/react/Creating-a-reusable-React-Query-component-for-your-REST-API.md)
-
+26. [React 组件的单元测试](https://github.com/xiao-T/note/blob/master/Published/react/Unit-Testing-React-Components.md)
 ### Webpack
 
 1. [用 webpack 实现 prefetch/preload](https://github.com/xiao-T/note/blob/master/Published/link-rel-prefetch-preload-in-webpack.md)
