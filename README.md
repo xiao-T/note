@@ -65,6 +65,8 @@
 24. [React 组件的"黄金法则"](https://github.com/xiao-T/note/blob/master/Published/react/How-the-%E2%80%9CGolden-Rule%E2%80%9D-of-React-components-can-help-you-write-better-code.md)
 25. [为 REST API 创建可复用的 React Query 组件](https://github.com/xiao-T/note/blob/master/Published/react/Creating-a-reusable-React-Query-component-for-your-REST-API.md)
 26. [React 组件的单元测试](https://github.com/xiao-T/note/blob/master/Published/react/Unit-Testing-React-Components.md)
+27. [React 应用性能优化的 6 条建议](https://github.com/xiao-T/note/blob/master/Published/react/6-tips-for-better-React-performance.md)
+
 ### Webpack
 
 1. [用 webpack 实现 prefetch/preload](https://github.com/xiao-T/note/blob/master/Published/link-rel-prefetch-preload-in-webpack.md)
