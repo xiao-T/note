@@ -67,6 +67,9 @@
 26. [React 组件的单元测试](https://github.com/xiao-T/note/blob/master/Published/react/Unit-Testing-React-Components.md)
 27. [React 应用性能优化的 6 条建议](https://github.com/xiao-T/note/blob/master/Published/react/6-tips-for-better-React-performance.md)
 
+### Test
+1. [每个单元测试必须解决的 5 个问题](https://github.com/xiao-T/note/blob/master/Published/test/5-Questions-Every-Unit-Test-Must-Answer.md)
+
 ### Webpack
 
 1. [用 webpack 实现 prefetch/preload](https://github.com/xiao-T/note/blob/master/Published/link-rel-prefetch-preload-in-webpack.md)
