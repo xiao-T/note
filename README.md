@@ -31,6 +31,7 @@
 3. [ES2020 中 Javascript 10 个你应该知道的新功能](https://github.com/xiao-T/note/blob/master/Published/10-New-JavaScript-Features-in-ES2020-That-You-Should-Know.md)
 4. [我从来都不理解闭包](https://github.com/xiao-T/note/blob/master/Published/javascript/I-never-understood-JavaScript-closures.md)
 5. [JavaScript 开发者 10 个非常有用的技巧](https://github.com/xiao-T/note/blob/master/Published/javascript/10-Super-Useful-Tricks-for-JavaScript-Developers.md)
+6. [一些有用的 JavaScript 技巧](https://github.com/xiao-T/note/blob/master/Published/javascript/Some-cool-and-awesome-JavaScript-tricks.md)
 
 ### TypeScript
 1. [TypeScript 中的代码清道夫：非空断言操作符](https://github.com/xiao-T/note/blob/master/Published/typescript/cleaner-typescript-with-the-non-null-assertion-operator.md)
