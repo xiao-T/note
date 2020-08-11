@@ -68,6 +68,7 @@
 25. [为 REST API 创建可复用的 React Query 组件](https://github.com/xiao-T/note/blob/master/Published/react/Creating-a-reusable-React-Query-component-for-your-REST-API.md)
 26. [React 组件的单元测试](https://github.com/xiao-T/note/blob/master/Published/react/Unit-Testing-React-Components.md)
 27. [React 应用性能优化的 6 条建议](https://github.com/xiao-T/note/blob/master/Published/react/6-tips-for-better-React-performance.md)
+28. [4 个简单又优雅的 React Hooks](https://github.com/xiao-T/note/blob/master/Published/react/4-Nice-and-Simple-React-Hooks.md)
 
 ### Test
 1. [每个单元测试必须解决的 5 个问题](https://github.com/xiao-T/note/blob/master/Published/test/5-Questions-Every-Unit-Test-Must-Answer.md)
